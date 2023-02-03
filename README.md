@@ -7,3 +7,6 @@
 #### report_type
 - 선발결과리포트
 - 연말결산리포트
+
+#### URL
+- https://admission-ds.github.io/filename.html
